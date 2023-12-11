@@ -5,7 +5,7 @@ const STATUS = {
   NORMAL: 'normal',
 }
 
-export const Link = ({ page, children }: any) => {
+export const Link = ({ page, children }: {page: string, children: JSX.Element}) => {
   const [status, setStatus] = useState(STATUS.NORMAL)
 
   const onMouseEnter = () => {
