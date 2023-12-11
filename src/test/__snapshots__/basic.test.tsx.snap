@@ -1,0 +1,49 @@
+// Bun Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+{
+  "$$typeof": Symbol(react.test.json),
+  "children": [
+    "Anthony Fu",
+  ],
+  "props": {
+    "className": "normal",
+    "href": "http://antfu.me",
+    "onMouseEnter": [Function],
+    "onMouseLeave": [Function],
+  },
+  "type": "a",
+}
+`;
+
+exports[`Link changes the class when hovered 2`] = `
+{
+  "$$typeof": Symbol(react.test.json),
+  "children": [
+    "Anthony Fu",
+  ],
+  "props": {
+    "className": "hovered",
+    "href": "http://antfu.me",
+    "onMouseEnter": [Function],
+    "onMouseLeave": [Function],
+  },
+  "type": "a",
+}
+`;
+
+exports[`Link changes the class when hovered 3`] = `
+{
+  "$$typeof": Symbol(react.test.json),
+  "children": [
+    "Anthony Fu",
+  ],
+  "props": {
+    "className": "normal",
+    "href": "http://antfu.me",
+    "onMouseEnter": [Function],
+    "onMouseLeave": [Function],
+  },
+  "type": "a",
+}
+`;
